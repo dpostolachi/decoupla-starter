@@ -38,7 +38,3 @@ You can then open your browser and navigate to [http://localhost:8000](http://lo
 To connect this starter project to your own Decoupla workspace:
 * Generate API Credentials: In your Decoupla dashboard, navigate to your workspace's API settings and obtain your Workspace ID and the API Token.
 * Update .env: Modify the .env file in the root of this project with your new Decoupla credentials:
-
-## License
-
-This project is open-sourced under the MIT License. See the LICENSE file for more details.
